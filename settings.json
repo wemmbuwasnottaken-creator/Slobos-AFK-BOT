@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Bot 24/7",
   "bot-account": {
-    "username": "Technoblade",
-    "password": "",
+    "username": "Wemmbybuster",
+    "password": "wemmby cummer",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "Wemmby_cummers.aternos.me",
+    "port": 11109,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,10 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "am a bot that make the server on 24/7",
+        "Follow to @Wemmbywhotfstoleit on tiktok!",
+        "Wemmby is a gooner",
+        "let goon to catboy!"
       ]
     },
     "chat-log": true,
